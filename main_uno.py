@@ -7,7 +7,8 @@
 
 def print_all(p):
 	print p
-
+def print_no_all(a):
+	print a
 
 var = 'mondo'
 print_all(var)
